@@ -1,4 +1,4 @@
-# 🛒 Supermarket Customer EDA 📊
+# 🛒 Supermarket Customer EDA 📊
 
 ## 🎯 Objective
 The objective of this project is to segment customers into different groups using 2 years of customer data and set the appropriate marketing strategy. The goal is to identify the primary group that brings the most profit to our business and understand their characteristics and preferences. For this process, we will utilize RFM (Recency, Frequency, and Monetary) analysis.
